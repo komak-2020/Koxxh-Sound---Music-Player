@@ -30,3 +30,9 @@ and Run Whit Electron
 Building for Win(x64) and Win(x32)
 
     npm run dist
+
+#
+
+By : KOXXH STUIDO (@komak-2020 , @hamedxxh0-eng)
+
+Enjoy !
