@@ -33,20 +33,4 @@
       "icon": "favicon.jpg",
       "artifactName": "Koxxh Sound Setup ${arch}.exe"
     },
-    "linux": {
-      "target": [
-        {
-          "target": "AppImage",
-          "arch": ["x64"]
-        },
-        {
-          "target": "AppImage",
-          "arch": ["ia32"]
-        }
-      ],
-      "icon": "favicon.jpg",
-      "category": "Audio",
-      "artifactName": "Koxxh Sound ${arch}.AppImage"
-    }
-  }
-}
+}}
