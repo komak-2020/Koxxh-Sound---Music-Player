@@ -27,4 +27,6 @@ and Run Whit Electron
 
     npm start
 
-Building 
+Building for Win(x64) and Win(x32)
+
+    npm run dist
